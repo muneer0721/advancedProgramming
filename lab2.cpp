@@ -23,7 +23,7 @@ int main(){
       
    }
    //m[0].add(m[1]);
-   system("cls");
+   
    displayMatrix=m[0].add(m[1]);
    m[0].display(displayMatrix);
 
